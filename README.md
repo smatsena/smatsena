@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **smatsena/smatsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
   Discord: Matt_;)#7360
 - 😄 Pronouns: Her,She
 - ⚡ Fun fact: I adore cats, love playing Dota, Minesweeper and reading books.. oh I can also hit a high note;)
--->
