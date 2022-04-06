@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**smatsena/smatsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 Get to know me!
 
 - 🔭 I’m currently working on finishing my second year as a software engineer at Wethinkcode_
 - 🌱 I’m currently learning distributed systems - web development.
