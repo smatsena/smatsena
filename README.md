@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with finding opportunies that'll help me grow as a programmer.
 - 💬 Ask me about BOOKS, I am a reader!!
 - 📫 How to reach me: 
-  Email: smatsena@student.wethinkcode.co.za
+  Email: mapulamatsena06@gmail.com
   Discord: Matt_;)#7360
 - 😄 Pronouns: Her,She
 - ⚡ Fun fact: I adore cats, love playing Dota, Minesweeper and reading books.. oh I can also hit a high note;)
