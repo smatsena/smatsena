@@ -1,7 +1,6 @@
 ### Hi there 👋 Get to know me!
 
-- 🔭 I’m currently working on finishing my second year as a software engineer at Wethinkcode_
-- 🌱 I’m currently learning distributed systems - web development.
+- 🌱 I’m currently learning transaction processing, financial systems and mathematical modelling.
 - 👯 I’m looking to collaborate on anything video games, writing or coding related!
 - 💬 Ask me about BOOKS, I am a reader!!
 - 📫 How to reach me: 
